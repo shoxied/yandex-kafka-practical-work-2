@@ -10,7 +10,7 @@
     </parent>
     <groupId>org.example</groupId>
     <artifactId>yandex-kafka-practical-work-2</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
+    <version>1.0.0</version>
     <name>yandex-practical-work-2</name>
     <description>yandex-practical-work-2</description>
     <url/>
@@ -89,7 +89,7 @@
                 <groupId>org.springframework.boot</groupId>
                 <artifactId>spring-boot-maven-plugin</artifactId>
                 <configuration>
-                    <mainClass>com.baeldung.spring.kafka.KafkaApplication</mainClass>
+                    <mainClass>org.example.yandexpracticalwork2.YandexPracticalWork2Application</mainClass>
                 </configuration>
             </plugin>
         </plugins>
