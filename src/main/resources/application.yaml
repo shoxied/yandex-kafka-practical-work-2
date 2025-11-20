@@ -1,0 +1,7 @@
+server:
+  port: 8080
+spring:
+  application:
+    name: yandex-practical-work-2
+  kafka:
+    bootstrap-servers: localhost:9096
