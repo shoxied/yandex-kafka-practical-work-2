@@ -17,7 +17,7 @@
 
 1. **Клонировать репозиторий:**
    ```bash
-   git clone https://github.com/shoxied/test-task-file.git
+   git clone https://github.com/shoxied/yandex-kafka-practical-work-2.git
 2. Перейти в корневой каталог проекта
 3. Запустить Kafka-кластер:
    ```bash
